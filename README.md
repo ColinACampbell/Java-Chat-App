@@ -1,5 +1,5 @@
 # Overview
-Real time chat application that allow messaging between a server and the client connected to the server.The application is heavily threaded using the BufferedInputStream to costantly listen out for incoming stream and BufferedOutputStream to send data.  
+Real time chat application that allow messaging between a server and the client connected to the server.The application is heavily threaded using the BufferedInputStream to costantly listen out for incoming stream and DataOutputStream to send data on request.  
 
 # How to use 
 1. Download / Clone the repository.
